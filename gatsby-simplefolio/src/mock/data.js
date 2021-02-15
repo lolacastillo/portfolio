@@ -2,16 +2,16 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: 'Larry | Developer', // e.g: 'Name | Developer'
+  title: 'Larry | Front End Developer', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
   description: 'Welcome to my website', // e.g: Welcome to my website
 };
 
 // HERO DATA
 export const heroData = {
-  title: 'Larry Castillo Portfolio ',
-  name: '',
-  subtitle: '',
+  title: 'Hello World!, My name is',
+  name: 'Larry Castillo',
+  subtitle: 'I am a Front End Developer',
   cta: '',
 };
 
@@ -31,30 +31,30 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: 'Gacho Magazine Website',
+    img: 'Gachostyle.png',
+    title: 'Gacho Style Magazine Website',
     info: '',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/mando-larry/Gacho-Style-Magazine', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'AB.png',
     title: 'Adventure Buddy',
     info: '',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/Adventure-Buddy/adventurebuddy', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: 'Adlister',
+    img: 'javascriptcalc.png',
+    title: 'Javascript Calculator',
     info: '',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/larrycastillo2009/Javascript-Calculator', // if no repo, the button will not show up
   },
 ];
 

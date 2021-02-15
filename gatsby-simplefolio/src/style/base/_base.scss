@@ -2,6 +2,10 @@
   font-family: "Steps-Mono";
   src: url("../fonts/Steps-Mono.otf");
 }
+@font-face {
+  font-family: "Minipax-Reuglar";
+  src:url("../fonts/Minipax-Regular.otf");
+}
 
 html {
   font-size: 62.5%;
@@ -10,4 +14,12 @@ html {
 body {
   font-family: 'Steps-Mono', sans-serif;
   text-align: center;
+}
+
+a {
+  font-family: 'Steps-Mono', sans-serif !important;
+}
+
+p {
+  font-family: 'Minipax-Regular', sans-serif !important;
 }
