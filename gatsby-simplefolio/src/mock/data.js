@@ -9,7 +9,7 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: 'Hello World!, My name is',
+  title: 'Hello World! My name is',
   name: 'Larry Castillo',
   subtitle: 'I am a Front End Developer',
   cta: '',
@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'LarryCastilloHeadShot2.JPG',
   paragraphOne:
-    'As denizen of the web I watched internet develop from a place to share funny cat pictures to watching entire political ideologies unravel in real time on more sophisticated social media platforms. All of this insight has not only informed my aesthetical prowess but it also has informed me how people behave and interact with these technologies that society operates on. Each project I have worked on thus far I have seen to it that any average person could immediate recognize how to navigate through it. I am through and through a front end developer!  ',
+    'As denizen of the web I watched internet develop from a place to share funny cat pictures to watching entire political ideologies unravel in real time on social media platforms. All of this insight has not only informed my aesthetical prowess but it also has informed me how people behave and interact with these technologies that society operates on. Each project I have worked on thus far I have seen to it that any average person could immediate recognize how to navigate through it. I am through and through a front end developer!  ',
   paragraphTwo:
     'I have experience with using Java for various means, integrating various APIs into a web application with Javascript, managing databases using MySQL, working in a team environment using Agile methodology in a remote environment, using various distributions of Linux to any end, and I am also fluent in HTML and CSS along with the Bootstrap Framework. At the moment I am looking to add React.js to that list.',
   paragraphThree:

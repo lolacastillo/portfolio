@@ -29,6 +29,7 @@ const Projects = () => {
           <Title title="Projects" />
           {projects.map((project) => {
             const { title, info, info2, url, img, id } = project;
+            // if you want the repo button to work add the repo variable up above
 
             return (
               <Row key={id}>
