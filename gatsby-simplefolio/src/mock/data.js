@@ -19,11 +19,11 @@ export const heroData = {
 export const aboutData = {
   img: 'LarryCastilloHeadShot2.JPG',
   paragraphOne:
-    'As new technologies emerge, developers have to remain sharp and update on a variety of languages and industry standards. With that in mind, developers are slowly realizing that they can no longer specify in a particular side of development, be it front-end or back-end. I like to think of my self as a jack of trades on an endless journey to learn and stay update to date on the latest standards and technnoloies, a true full-stack developer. ',
+    'As denizen of the web I watched internet develop from a place to share funny cat pictures to watching entire political ideologies unravel in real time on more sophisticated social media platforms. All of this insight has not only informed my aesthetical prowess but it also has informed me how people behave and interact with these technologies that society operates on. Each project I have worked on thus far I have seen to it that any average person could immediate recognize how to navigate through it. I am through and through a front end developer!  ',
   paragraphTwo:
     'I have experience with using Java for various means, integrating various APIs into a web application with Javascript, managing databases using MySQL, working in a team environment using Agile methodology in a remote environment, using various distributions of Linux to any end, and I am also fluent in HTML and CSS along with the Bootstrap Framework. At the moment I am looking to add React.js to that list.',
   paragraphThree:
-    'If you would like to chat about anything you see here, work on a project todether, or are an employer looking for your next team member, please email me down below and I will get back to you as soon as I can. See ya around the web!',
+    'If you would like to chat about anything you see here, work on a project together, or are an employer looking for your next team member, please email me down below and I will get back to you as soon as I can. See ya around the web!',
   // resume: '', // if no resume, the button will not show up
 };
 
@@ -35,8 +35,8 @@ export const projectsData = [
     title: 'Gacho Style Magazine Website',
     info: '',
     info2: '',
-    url: '',
-    repo: 'https://github.com/mando-larry/Gacho-Style-Magazine', // if no repo, the button will not show up
+    url: 'https://github.com/mando-larry/Gacho-Style-Magazine',
+    repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -44,8 +44,8 @@ export const projectsData = [
     title: 'Adventure Buddy',
     info: '',
     info2: '',
-    url: '',
-    repo: 'https://github.com/Adventure-Buddy/adventurebuddy', // if no repo, the button will not show up
+    url: 'https://github.com/Adventure-Buddy/adventurebuddy',
+    repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -53,8 +53,8 @@ export const projectsData = [
     title: 'Javascript Calculator',
     info: '',
     info2: '',
-    url: '',
-    repo: 'https://github.com/larrycastillo2009/Javascript-Calculator', // if no repo, the button will not show up
+    url: 'https://github.com/larrycastillo2009/Javascript-Calculator',
+    repo: '', // if no repo, the button will not show up
   },
 ];
 
