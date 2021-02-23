@@ -28,11 +28,12 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'Gachostyle.png',
+    img: 'Gatchostyle.png',
     title: 'Gacho Style Magazine Website',
     info:
       'A digital art portfolio and magazine aesthetically designed by a San Antonio artist named Zerktronic. Using paired programing we utilized the Spring Framework and Bootstrap to create a responsive mobile experience. To handle image storage we created a UI that allows the artist to upload pictures to an Amazon S3 bucket. The api Flipsnack was used to showcase a digital version of a magazine the artist created.\n',
-    info2: '',
+    info2:
+      'This project was created using: Java, Spring, AWS S3, MySQL, Javascript, Flipsnack API, and Bootstrap',
     url: 'https://github.com/mando-larry/Gacho-Style-Magazine',
     repo: '', // if no repo, the button will not show up
   },
@@ -42,7 +43,8 @@ export const projectsData = [
     title: 'Adventure Buddy',
     info:
       'A social media platform that allows users to create events, view stats on various hiking trails, and make profiles to save favorite trails and buddies. This dynamic full-stack application was made possible with Spring Boot using a mobile-first approach aimed at ease of use.',
-    info2: '',
+    info2:
+      'This project was created using: Java, Spring, MySQL, Javascript, Filestack API, and Bootstrap',
     url: 'https://github.com/Adventure-Buddy/adventurebuddy',
     repo: '', // if no repo, the button will not show up
   },
@@ -52,7 +54,7 @@ export const projectsData = [
     title: 'Javascript Calculator',
     info:
       'An attemp at creating a digital version of one of the best selling Texas Instrument calculators. This application uses Javascript to handle any calculator logic. As a bonus feature when you press the solar panels an animated sun will appear recharging the calculator',
-    info2: '',
+    info2: 'This project was created using: Javascript and Bootstrap',
     url: 'https://github.com/larrycastillo2009/Javascript-Calculator',
     repo: '', // if no repo, the button will not show up
   },
