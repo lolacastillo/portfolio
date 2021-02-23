@@ -18,12 +18,9 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'LarryCastilloHeadShot2.JPG',
-  paragraphOne:
-    'As denizen of the web I watched internet develop from a place to share funny cat pictures to watching entire political ideologies unravel in real time on social media platforms. All of this insight has not only informed my aesthetical prowess but it also has informed me how people behave and interact with these technologies that society operates on. Each project I have worked on thus far I have seen to it that any average person could immediate recognize how to navigate through it. I am through and through a front end developer!  ',
-  paragraphTwo:
-    'I have experience with using Java for various means, integrating various APIs into a web application with Javascript, managing databases using MySQL, working in a team environment using Agile methodology in a remote environment, using various distributions of Linux to any end, and I am also fluent in HTML and CSS along with the Bootstrap Framework. At the moment I am looking to add React.js to that list.',
-  paragraphThree:
-    'If you would like to chat about anything you see here, work on a project together, or are an employer looking for your next team member, please email me down below and I will get back to you as soon as I can. See ya around the web!',
+  paragraphOne: '',
+  paragraphTwo: '',
+  paragraphThree: '',
   // resume: '', // if no resume, the button will not show up
 };
 
